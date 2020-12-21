@@ -1,27 +1,7 @@
-# react-component
+# B-component
 
-## Getting Started
+> 自己实现的一些简单组件的汇总
 
-Install dependencies,
+## ImitatePicker
 
-```bash
-$ npm i
-```
-
-Start the dev server,
-
-```bash
-$ npm start
-```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
-```
+完全模仿的 antd4 时间组件，主要是为了能在 antd3 的项目中使用（主要是因为暂时还没有全部升级的计划） = . =
